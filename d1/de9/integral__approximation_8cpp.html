@@ -97,7 +97,7 @@ $(document).ready(function(){initNavTree('d1/de9/integral__approximation_8cpp.ht
 </div><!--header-->
 <div class="contents">
 
-<p>Compute integral approximation of function.  
+<p>Algorithm to compute integral approximation of function.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;cassert&gt;</code><br />
 <code>#include &lt;cmath&gt;</code><br />
@@ -123,7 +123,7 @@ Functions</h2></td></tr>
 <tr class="separator:ae66f6b31b5ad750f1fe042a706a4e3d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Compute integral approximation of function. </p>
+<div class="textblock"><p>Algorithm to compute integral approximation of function. </p>
 <dl class="section author"><dt>Author</dt><dd><a href="https://github.com/bwalton24">Benjamin Walton</a> </dd>
 <dd>
 <a href="https://github.com/shiqisheng00">Shiqi Sheng</a> </dd></dl>
@@ -170,11 +170,11 @@ Functions</h2></td></tr>
     <tr><td class="paramname">lb</td><td>lower bound </td></tr>
     <tr><td class="paramname">ub</td><td>upper bound </td></tr>
     <tr><td class="paramname">func</td><td>function passed in </td></tr>
-    <tr><td class="paramname">delta</td><td>delta </td></tr>
+    <tr><td class="paramname">delta</td><td></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>integral approximation of function from [lb, ub] </dd></dl>
 <div class="fragment"><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;                                             {</div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    <span class="keywordtype">double</span> <a class="code" href="../../de/dc3/fibonacci__sum_8cpp.html#aadb40ac4c74a7efc0680b83eeee138aa">result</a> = 0;</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">double</span> i = lb; i &lt; ub; i += delta) {</div>
@@ -272,7 +272,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;range: [10.78, 24.899]&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;value: &quot;</span> &lt;&lt; <a class="code" href="../../d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a">test_3</a> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    <a class="code" href="../../d1/de9/integral__approximation_8cpp.html#adf3f76dd4de4df20ef53c611b924026e">test_eval</a>(<a class="code" href="../../d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a">test_3</a>, 93320.65915078377, .001);</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a>&lt;&lt;<span class="stringliteral">&quot;Test 3 Passed!&quot;</span>&lt;&lt;<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;Test 3 Passed!&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;=====================&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160; </div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <span class="keywordtype">double</span> test_4 = <a class="code" href="../../d1/de9/integral__approximation_8cpp.html#a7f4fb1b8f896a4d6c17877fbed0d8702">integral_approx</a>(.101, .505, [](<span class="keyword">const</span> <span class="keywordtype">double</span> x) {</div>
@@ -283,7 +283,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;range: [.101, .505]&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;value: &quot;</span> &lt;&lt; test_4 &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <a class="code" href="../../d1/de9/integral__approximation_8cpp.html#adf3f76dd4de4df20ef53c611b924026e">test_eval</a>(test_4, 0.566485986311631, .001);</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a>&lt;&lt;<span class="stringliteral">&quot;Test 4 Passed!&quot;</span>&lt;&lt;<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;Test 4 Passed!&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;=====================&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160; </div>
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    <span class="keywordtype">double</span> test_5 = <a class="code" href="../../d1/de9/integral__approximation_8cpp.html#a7f4fb1b8f896a4d6c17877fbed0d8702">integral_approx</a>(-1, 1, [](<span class="keyword">const</span> <span class="keywordtype">double</span> x) {</div>
@@ -294,7 +294,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;range: [-1, 1]&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;value: &quot;</span> &lt;&lt; test_5 &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <a class="code" href="../../d1/de9/integral__approximation_8cpp.html#adf3f76dd4de4df20ef53c611b924026e">test_eval</a>(test_5, 0.1781477117815607, .001);</div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a>&lt;&lt;<span class="stringliteral">&quot;Test 5 Passed!&quot;</span>&lt;&lt;<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; <span class="stringliteral">&quot;Test 5 Passed!&quot;</span> &lt;&lt; <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/manip/endl.html">std::endl</a>;</div>
 <div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;}</div>
 <div class="ttc" id="abasic_ostream_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a></div></div>
 <div class="ttc" id="acos_html"><div class="ttname"><a href="http://en.cppreference.com/w/cpp/numeric/math/cos.html">std::cos</a></div><div class="ttdeci">T cos(T... args)</div></div>
@@ -347,10 +347,10 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Wrapper to check if approximated value is within .XX% difference of exact value. </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Wrapper to evaluate if approximated value is within .XX% threshold of exact value. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">approx</td><td>number to check double factorial for </td></tr>
-    <tr><td class="paramname">exact</td><td>expected result </td></tr>
+    <tr><td class="paramname">approx</td><td>aprroximate value </td></tr>
+    <tr><td class="paramname">exact</td><td>expected value </td></tr>
     <tr><td class="paramname">threshold</td><td>values from [0, 1) </td></tr>
   </table>
   </dd>

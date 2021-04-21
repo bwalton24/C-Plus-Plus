@@ -1,9 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"d4/d21/least__common__multiple_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,25,2],
-"d4/d32/fibonacci__fast_8cpp.html":[10,0,12,13],
-"d4/d32/fibonacci__fast_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[10,0,12,13,0],
-"d4/d32/fibonacci__fast_8cpp.html#a5712edca101204eca8accdb1e096707f":[10,0,12,13,1],
 "d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,13,2],
 "d4/d38/power__of__two_8cpp.html":[10,0,12,35],
 "d4/d38/power__of__two_8cpp.html#a89ab7d6c3e3ee72a8cbaa85127986185":[10,0,12,35,1],
@@ -14,8 +10,8 @@ var NAVTREEINDEX4 =
 "d4/d3e/n__queens_8cpp.html#a0dbd7af47d87f0b956609fe9e3288ecb":[10,0,0,3,3],
 "d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808":[8,0,3,0,1],
 "d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808":[10,0,0,3,2],
-"d4/d3e/n__queens_8cpp.html#a5730b6683f6adcf5c5ef75cf53dc7160":[8,0,3,0,0],
 "d4/d3e/n__queens_8cpp.html#a5730b6683f6adcf5c5ef75cf53dc7160":[10,0,0,3,0],
+"d4/d3e/n__queens_8cpp.html#a5730b6683f6adcf5c5ef75cf53dc7160":[8,0,3,0,0],
 "d4/d3e/n__queens_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,3,1],
 "d4/d45/gcd__recursive__euclidean_8cpp.html":[10,0,12,19],
 "d4/d45/gcd__recursive__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[10,0,12,19,0],
@@ -191,8 +187,8 @@ var NAVTREEINDEX4 =
 "d5/d4c/group__sorting.html":[7,3],
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[7,3,7],
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[10,0,19,9,3],
-"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[7,3,2],
 "d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[10,0,19,18,0],
+"d5/d4c/group__sorting.html#ga135e4c638e3bcf548bd122b5f49a3e72":[7,3,2],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[7,3,3],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[10,0,19,6,1],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[7,3,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX4 =
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44":[3,13],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45":[3,14],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46":[3,15],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,16]
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,16],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48":[3,17],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49":[3,18],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50":[3,19],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51":[3,20]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48":[3,17],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49":[3,18],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50":[3,19],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51":[3,20],
 "d5/d89/namespacepalindrome__partitioning.html":[8,0,52],
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[9,0,9,0,0],
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[9,0,9,0,0,1],
@@ -147,8 +143,8 @@ var NAVTREEINDEX5 =
 "d6/d4e/namespaceciphers.html#ab9aec0ccf4b6809f652bb540be87c216":[8,0,9,6],
 "d6/d53/namespaceword__break.html":[8,0,80],
 "d6/d60/group__ode.html":[7,2],
-"d6/d60/group__ode.html#ga195d23bbdfcb80e83c9cda45c9ad5723":[10,0,13,9,2],
 "d6/d60/group__ode.html#ga195d23bbdfcb80e83c9cda45c9ad5723":[7,2,1],
+"d6/d60/group__ode.html#ga195d23bbdfcb80e83c9cda45c9ad5723":[10,0,13,9,2],
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[7,2,2],
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[10,0,13,10,2],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[7,2,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX5 =
 "d6/dd8/is__graph__bipartite_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,6,9,1],
 "d7/d00/list__array_8cpp.html":[10,0,3,8],
 "d7/d00/list__array_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,3,8,2],
-"d7/d00/list__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,3,8,1]
+"d7/d00/list__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,3,8,1],
+"d7/d07/bidirectional__dijkstra_8cpp.html":[10,0,6,0],
+"d7/d07/bidirectional__dijkstra_8cpp.html#a330a2b0a904f01802ada1f8f3b28e76c":[10,0,6,0,5],
+"d7/d07/bidirectional__dijkstra_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,6,0,4],
+"d7/d07/bidirectional__dijkstra_8cpp.html#a6f92fe022b7e5d453f7257d763b6f3e2":[8,0,21,0,0]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"da/d4b/depth__first__search__with__stack_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e":[10,0,6,5,3],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a7511fcdb330b3ab599ff9e15229ae068":[10,0,6,5,0],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a7511fcdb330b3ab599ff9e15229ae068":[8,0,21,1,0],
-"da/d4b/depth__first__search__with__stack_8cpp.html#a7f1cd94cf4da32933e8551cb3577e18b":[10,0,6,5,4],
 "da/d4b/depth__first__search__with__stack_8cpp.html#ae198aeaad22ccd56712b7380bd62f777":[8,0,21,1,1],
 "da/d4b/depth__first__search__with__stack_8cpp.html#ae198aeaad22ccd56712b7380bd62f777":[10,0,6,5,1],
 "da/d4b/depth__first__search__with__stack_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,6,5,2],
@@ -101,10 +97,10 @@ var NAVTREEINDEX8 =
 "da/dac/n__queens__all__solution__optimised_8cpp.html":[10,0,0,4],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a04090463be4942a69ea91fe7386da905":[10,0,0,4,3],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a04090463be4942a69ea91fe7386da905":[8,0,3,2,2],
-"da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[8,0,3,2,1],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[10,0,0,4,2],
-"da/dac/n__queens__all__solution__optimised_8cpp.html#a9e48455584a4faa33e83dd1891efd9b9":[10,0,0,4,0],
+"da/dac/n__queens__all__solution__optimised_8cpp.html#a23c0547e4fd1708e6fb643b08327a60f":[8,0,3,2,1],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#a9e48455584a4faa33e83dd1891efd9b9":[8,0,3,2,0],
+"da/dac/n__queens__all__solution__optimised_8cpp.html#a9e48455584a4faa33e83dd1891efd9b9":[10,0,0,4,0],
 "da/dac/n__queens__all__solution__optimised_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,4,1],
 "da/dc3/linked__list_8cpp.html":[10,0,3,6],
 "da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180":[10,0,3,6,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX8 =
 "db/dc0/namespacebacktracking.html#a932e38e8912742cedf7b5a837168e03a":[8,0,3,11],
 "db/dc0/namespacebacktracking.html#ae1a76e21cb3934368d01cea7672d3906":[8,0,3,9],
 "db/dca/kadane2_8cpp.html":[10,0,4,4],
-"db/dca/kadane2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,4,4,0]
+"db/dca/kadane2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,4,4,0],
+"db/dca/kadane2_8cpp.html#af3029007a422a914a85c0b0122f1c7b4":[10,0,4,4,1],
+"db/dd3/ode__forward__euler_8cpp.html":[10,0,13,9],
+"db/dd3/ode__forward__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[10,0,13,9,3],
+"db/dd3/ode__forward__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f":[10,0,13,9,5]
 };

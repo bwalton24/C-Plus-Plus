@@ -1,9 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"db/dca/kadane2_8cpp.html#af3029007a422a914a85c0b0122f1c7b4":[10,0,4,4,1],
-"db/dd3/ode__forward__euler_8cpp.html":[10,0,13,9],
-"db/dd3/ode__forward__euler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[10,0,13,9,3],
-"db/dd3/ode__forward__euler_8cpp.html#aa13517b8e5de1b75592052db7f7e237f":[10,0,13,9,5],
 "db/dd3/ode__forward__euler_8cpp.html#abaeae8f62a018d197f0187a1c80a90fe":[10,0,13,9,4],
 "db/dd3/ode__forward__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b":[10,0,13,9,0],
 "db/ddc/namespaceaystar__search.html":[8,0,2],
@@ -88,8 +84,8 @@ var NAVTREEINDEX9 =
 "dc/dc5/paranthesis__matching_8cpp.html#af4c937d823c412d99fbe60c99dbf0a4f":[10,0,15,8,6],
 "dc/dd9/strand__sort_8cpp.html":[10,0,19,17],
 "dc/dd9/strand__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,19,17,2],
-"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[10,0,19,17,1],
 "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[8,0,65,5,0],
+"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[10,0,19,17,1],
 "dc/dd9/strand__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,17,0],
 "dc/dfe/ternary__search_8cpp.html":[10,0,18,10],
 "dc/dfe/ternary__search_8cpp.html#a23ad617bfce1e7cf4591059c85c1a027":[10,0,18,10,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX9 =
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ab0efcfa04fff8616aff0062522d1483f":[9,0,4,0,0,3],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[9,0,4,0,0,1],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[9,0,4,0,0,4],
-"de/d07/cycle__sort_8cpp.html":[10,0,19,4]
+"de/d07/cycle__sort_8cpp.html":[10,0,19,4],
+"de/d07/cycle__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,19,4,2],
+"de/d07/cycle__sort_8cpp.html#ad0cfe2e54b1d3f9d0ca648265d917c6a":[8,0,65,0,0],
+"de/d07/cycle__sort_8cpp.html#ad0cfe2e54b1d3f9d0ca648265d917c6a":[10,0,19,4,0],
+"de/d07/cycle__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,4,1]
 };

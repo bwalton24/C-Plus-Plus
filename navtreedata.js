@@ -123,18 +123,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/c/vfwprintf.html",
-"cpp/string/wide/iswlower.html",
-"d1/dc2/classstack.html#a61370d5fbaf9ec6bca4a8c114c1058e1",
-"d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#ae58dca20f08eaf9313f6e7b0869c2d0e",
-"d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html#a9adb4639a0797e94a3e556b6b902c088",
-"d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html#a57c168cd6eb85718eab97da658a698ad",
-"d8/d77/namespacemachine__learning.html#ab58fb68da2cfc5326d3da0cba6f58118",
-"d9/dde/classbinary__search__tree.html#aa4f84b2eec9b9201af1840868ddb5fb2",
-"db/d82/classlarge__number.html#aeb22d2aae39d1b1e0bd39c7f47b333eb",
-"dd/d91/class_fenwick_tree.html#ade1d6a3d49af9d9df33e2fb26cab1699",
-"functions_func_c.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/df3/hash__search_8cpp.html#a77c722016053a1d484aa177ce205b367",
+"d4/d38/power__of__two_8cpp.html",
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html",
+"d7/d07/bidirectional__dijkstra_8cpp.html#aa3848a7213562b47084585499d3642a5",
+"d8/d95/vector__ops_8hpp.html#a8b3b06a63bd16b91237c85a295309774",
+"da/d4b/depth__first__search__with__stack_8cpp.html#ae198aeaad22ccd56712b7380bd62f777",
+"db/dd3/ode__forward__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b",
+"de/d07/cycle__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"globals_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

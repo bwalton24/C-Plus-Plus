@@ -1,10 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"db/d82/classlarge__number.html#ac27b399ed872731758ec33ebb102730e":[9,0,25,13],
-"db/d82/classlarge__number.html#ac4fafa6289295419d48d444f0ae4b706":[9,0,25,11],
-"db/d82/classlarge__number.html#ace19126cf343a09efc0010735f6e3a8d":[9,0,25,15],
-"db/d82/classlarge__number.html#adf804e60309bf016f7954fdcb0a4d103":[9,0,25,4],
-"db/d82/classlarge__number.html#ae35a55607cf52c0b0d485f2129bd39ac":[9,0,25,6],
 "db/d82/classlarge__number.html#aeb22d2aae39d1b1e0bd39c7f47b333eb":[9,0,25,14],
 "db/d82/classlarge__number.html#af2b3ec9c35842d3a46ac7326f268af57":[9,0,25,22],
 "db/d82/classlarge__number.html#af4598f1f2794b5e17e10c25e0501e41a":[9,0,25,1],
@@ -82,8 +77,8 @@ var NAVTREEINDEX9 =
 "dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14":[8,0,37,2,0],
 "dc/d5a/rat__maze_8cpp.html":[10,0,0,6],
 "dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,0,6,2],
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[8,0,3,3,0],
 "dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[10,0,0,6,1],
+"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[8,0,3,3,0],
 "dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,6,0],
 "dc/d61/classgraph_1_1_graph.html":[9,0,4,1],
 "dc/d61/classgraph_1_1_graph.html#a190c0eb4739b6a8dfc1c3f684e66d937":[9,0,4,1,0],
@@ -133,8 +128,8 @@ var NAVTREEINDEX9 =
 "dc/dc5/paranthesis__matching_8cpp.html#af4c937d823c412d99fbe60c99dbf0a4f":[10,0,15,8,6],
 "dc/dd9/strand__sort_8cpp.html":[10,0,19,17],
 "dc/dd9/strand__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,19,17,2],
-"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[8,0,65,5,0],
 "dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[10,0,19,17,1],
+"dc/dd9/strand__sort_8cpp.html#ad75dc6a599ecfe31dadfaf449ee565f6":[8,0,65,5,0],
 "dc/dd9/strand__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,17,0],
 "dc/dfe/ternary__search_8cpp.html":[10,0,18,10],
 "dc/dfe/ternary__search_8cpp.html#a23ad617bfce1e7cf4591059c85c1a027":[10,0,18,10,0],
@@ -158,8 +153,8 @@ var NAVTREEINDEX9 =
 "dd/d0d/insertion__sort_8cpp.html#a8fe6bac9e03f58abcc2ce26ef3de1b5f":[10,0,19,7,1],
 "dd/d0d/insertion__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,19,7,3],
 "dd/d12/vigenere__cipher_8cpp.html":[10,0,2,3],
-"dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[10,0,2,3,0],
 "dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[8,0,9,3,0],
+"dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[10,0,2,3,0],
 "dd/d12/vigenere__cipher_8cpp.html#a6bd3880ea6820c232c1eddf47553c257":[10,0,2,3,1],
 "dd/d12/vigenere__cipher_8cpp.html#a6bd3880ea6820c232c1eddf47553c257":[8,0,9,3,1],
 "dd/d12/vigenere__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[10,0,2,3,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX9 =
 "dd/d81/namespacecaesar.html":[8,0,8],
 "dd/d91/class_fenwick_tree.html":[9,0,21],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[9,0,21,4],
-"dd/d91/class_fenwick_tree.html#a2e9ea4fcbe0786487f4535c1cfc7aa00":[9,0,21,5]
+"dd/d91/class_fenwick_tree.html#a2e9ea4fcbe0786487f4535c1cfc7aa00":[9,0,21,5],
+"dd/d91/class_fenwick_tree.html#a4816596da965b5f0871d77b5a1985aa1":[9,0,21,7],
+"dd/d91/class_fenwick_tree.html#a70f8c261393ca09ec1ad716ac806ead6":[9,0,21,1],
+"dd/d91/class_fenwick_tree.html#aa8ecebf6f4ad9faaf4b826668d9409bb":[9,0,21,6],
+"dd/d91/class_fenwick_tree.html#aaae15ea71455315e257baa11017cec10":[9,0,21,2],
+"dd/d91/class_fenwick_tree.html#aaddab1f03d4941212a82cc647b1adb17":[9,0,21,0]
 };

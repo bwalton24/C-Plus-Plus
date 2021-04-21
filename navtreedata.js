@@ -127,14 +127,14 @@ var NAVTREEINDEX =
 "cpp/io/c/vfwprintf.html",
 "cpp/string/wide/iswlower.html",
 "d1/dc2/classstack.html#a61370d5fbaf9ec6bca4a8c114c1058e1",
-"d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#ac4e7d1eb145af5e18b11c26f94a01e0e",
-"d5/d58/persistent__seg__tree__lazy__prop_8cpp.html",
-"d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861",
-"d8/d77/namespacemachine__learning.html#a73ee7ed3546ab9e8792a92336d0d14ab",
-"d9/dde/classbinary__search__tree.html#a8168edf29316f2b436eac1fc416c52e0",
-"db/d82/classlarge__number.html#ac27b399ed872731758ec33ebb102730e",
-"dd/d91/class_fenwick_tree.html#a4816596da965b5f0871d77b5a1985aa1",
-"functions_f.html"
+"d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#ae58dca20f08eaf9313f6e7b0869c2d0e",
+"d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html#a9adb4639a0797e94a3e556b6b902c088",
+"d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html#a57c168cd6eb85718eab97da658a698ad",
+"d8/d77/namespacemachine__learning.html#ab58fb68da2cfc5326d3da0cba6f58118",
+"d9/dde/classbinary__search__tree.html#aa4f84b2eec9b9201af1840868ddb5fb2",
+"db/d82/classlarge__number.html#aeb22d2aae39d1b1e0bd39c7f47b333eb",
+"dd/d91/class_fenwick_tree.html#ade1d6a3d49af9d9df33e2fb26cab1699",
+"functions_func_c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

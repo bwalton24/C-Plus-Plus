@@ -133,8 +133,8 @@ var NAVTREEINDEX =
 "d8/d77/namespacemachine__learning.html#a73ee7ed3546ab9e8792a92336d0d14ab",
 "d9/dde/classbinary__search__tree.html#a8168edf29316f2b436eac1fc416c52e0",
 "db/d82/classlarge__number.html#ac27b399ed872731758ec33ebb102730e",
-"dd/d91/class_fenwick_tree.html#aa8ecebf6f4ad9faaf4b826668d9409bb",
-"functions_func.html"
+"dd/d91/class_fenwick_tree.html#a4816596da965b5f0871d77b5a1985aa1",
+"functions_f.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

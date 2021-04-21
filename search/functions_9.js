@@ -35,7 +35,7 @@ var searchData=
   ['insertkey_4024',['insertKey',['../d2/d05/class_min_heap.html#aef78f3384f5a0ae880ad0883d2d44b82',1,'MinHeap']]],
   ['insertpostmerge_4025',['InsertPostMerge',['../d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#aa7e5e00033f38006a224f30bdbf3f703',1,'data_structures::tree_234::Tree234']]],
   ['insertpresplit_4026',['InsertPreSplit',['../d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#a07811b3c564a3a443b106c9aa717629d',1,'data_structures::tree_234::Tree234']]],
-  ['integral_5fapprox_4027',['integral_approx',['../d1/de9/integral__approximation_8cpp.html#a7f4fb1b8f896a4d6c17877fbed0d8702',1,'integral_approximation.cpp']]],
+  ['integral_5fapprox_4027',['integral_approx',['../dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11',1,'math']]],
   ['internal_4028',['internal',['http://en.cppreference.com/w/cpp/io/manip/left.html',0,'std']]],
   ['interpolation_5fsearch_4029',['interpolation_search',['../d9/dd7/interpolation__search_8cpp.html#a9805865b5c5ca6b0fdf95fd86132625a',1,'interpolation_search.cpp']]],
   ['interpolationsearch_4030',['InterpolationSearch',['../df/d39/interpolation__search2_8cpp.html#aa3ec659ec8394d186c761df81ad1f629',1,'interpolation_search2.cpp']]],

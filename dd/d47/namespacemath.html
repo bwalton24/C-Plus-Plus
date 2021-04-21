@@ -237,7 +237,7 @@ Algorithm</h3>
 <dl class="section return"><dt>Returns</dt><dd>integral approximation of function from [lb, ub] </dd></dl>
 <div class="fragment"><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;                                             {</div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    <span class="keywordtype">double</span> <a class="code" href="../../de/dc3/fibonacci__sum_8cpp.html#aadb40ac4c74a7efc0680b83eeee138aa">result</a> = 0;</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordtype">int</span> numDeltas = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>((ub - lb) / delta);</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    uint64_t numDeltas = <span class="keyword">static_cast&lt;</span>uint64_t<span class="keyword">&gt;</span>((ub - lb) / delta);</div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; numDeltas; i++) {</div>
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;        <span class="keywordtype">double</span> <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/iterator/begin.html">begin</a> = lb + i * delta;</div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <span class="keywordtype">double</span> <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/iterator/end.html">end</a> = lb + (i + 1) * delta;</div>

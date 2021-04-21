@@ -1,5 +1,9 @@
 var NAVTREEINDEX7 =
 {
+"d8/d77/namespacemachine__learning.html#a73ee7ed3546ab9e8792a92336d0d14ab":[8,0,36,25],
+"d8/d77/namespacemachine__learning.html#a7491744dcfc8844338d55065d0cd0c79":[8,0,36,12],
+"d8/d77/namespacemachine__learning.html#a8b3b06a63bd16b91237c85a295309774":[8,0,36,3],
+"d8/d77/namespacemachine__learning.html#a8e8b54aaa62ad7f906aec0756ca3a500":[8,0,36,19],
 "d8/d77/namespacemachine__learning.html#a9225f0ded976096b45ffe13c75d33c05":[8,0,36,14],
 "d8/d77/namespacemachine__learning.html#ab58fb68da2cfc5326d3da0cba6f58118":[8,0,36,13],
 "d8/d77/namespacemachine__learning.html#abe6b58ec16abe0f6f8ac195e04aa8abd":[8,0,36,6],
@@ -202,8 +206,8 @@ var NAVTREEINDEX7 =
 "d9/d5d/extended__euclid__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,9,2],
 "d9/d60/namespacerat__maze.html":[8,0,60],
 "d9/d66/group__machine__learning.html":[7,1],
-"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[7,1,7],
 "d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[10,0,11,0,5],
+"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[7,1,7],
 "d9/d66/group__machine__learning.html#ga525335710b53cb064ca56b936120431e":[10,0,11,1,0],
 "d9/d66/group__machine__learning.html#ga525335710b53cb064ca56b936120431e":[10,0,11,2,0],
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[10,0,11,1,6],
@@ -212,9 +216,9 @@ var NAVTREEINDEX7 =
 "d9/d66/group__machine__learning.html#ga72699c805c19a6cc47a937a6f3378afa":[7,1,6],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[10,0,11,1,3],
 "d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f":[7,1,4],
-"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[7,1,3],
-"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[10,0,11,1,1],
 "d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[10,0,11,2,1],
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[10,0,11,1,1],
+"d9/d66/group__machine__learning.html#gaf5ce14f026d6d231bef29161bac2b485":[7,1,3],
 "d9/d69/median__search_8cpp.html":[10,0,18,8],
 "d9/d69/median__search_8cpp.html#a868847218f694e78bf433a0ff7648bae":[10,0,18,8,1],
 "d9/d69/median__search_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[10,0,18,8,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX7 =
 "d9/dde/classbinary__search__tree.html#a564fe43e7e8f7ecb6f10667a70fbc6f3":[9,0,13,15],
 "d9/dde/classbinary__search__tree.html#a6bf5b410299df2320ddf2709dda61f63":[9,0,13,3],
 "d9/dde/classbinary__search__tree.html#a70030b0d7990c6fd450256d27b8f6c7b":[9,0,13,9],
-"d9/dde/classbinary__search__tree.html#a75f897af6aa732a9901454401c869bcb":[9,0,13,4],
-"d9/dde/classbinary__search__tree.html#a8168edf29316f2b436eac1fc416c52e0":[9,0,13,12],
-"d9/dde/classbinary__search__tree.html#a87c0a35845d27e0f6fc1f4eaa0333362":[9,0,13,17],
-"d9/dde/classbinary__search__tree.html#a99771c2e1353e8ddfd4bb9d30b7a98fb":[9,0,13,14],
-"d9/dde/classbinary__search__tree.html#a9d1e7e10efa74d741bf48cf032df3778":[9,0,13,11]
+"d9/dde/classbinary__search__tree.html#a75f897af6aa732a9901454401c869bcb":[9,0,13,4]
 };

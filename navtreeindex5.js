@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"d5/d58/persistent__seg__tree__lazy__prop_8cpp.html":[10,0,17,2],
+"d5/d58/persistent__seg__tree__lazy__prop_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,17,2,3],
+"d5/d58/persistent__seg__tree__lazy__prop_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,17,2,2],
+"d5/d5f/namespacegeometry.html":[8,0,19],
 "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html":[9,0,11,1,0],
 "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html#a9adb4639a0797e94a3e556b6b902c088":[9,0,11,1,0,2],
 "d5/d66/classrange__queries_1_1per_seg_tree_1_1_node.html#ab3e7bf5a91911c17907b30b250108013":[9,0,11,1,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76":[10,0,16,2,4],
 "d6/db0/binomial__dist_8cpp.html#a4416a7bc7fa87201883c54cdc4c82813":[10,0,16,2,0],
 "d6/db0/binomial__dist_8cpp.html#a76ed6ce71415fb400b65f0656cef3d25":[10,0,16,2,1],
-"d6/db0/binomial__dist_8cpp.html#a78d36635232e54b5d71fcbf1eac9a49a":[10,0,16,2,6],
-"d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861":[10,0,16,2,3],
-"d6/db0/binomial__dist_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,16,2,5],
-"d6/db0/binomial__dist_8cpp.html#af09e51f513cee647d41192ab0a872cdc":[10,0,16,2,2],
-"d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html":[9,0,7,0,0]
+"d6/db0/binomial__dist_8cpp.html#a78d36635232e54b5d71fcbf1eac9a49a":[10,0,16,2,6]
 };

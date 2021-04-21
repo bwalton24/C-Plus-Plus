@@ -142,7 +142,7 @@ var sectionId = 'dynsection-2';
 <!-- Node26 -->
 <g id="node26" class="node">
 <title>Node26</title>
-<g id="a_node26"><a xlink:href="../../d1/de9/integral__approximation_8cpp.html#adf3f76dd4de4df20ef53c611b924026e" target="_top" xlink:title=" ">
+<g id="a_node26"><a xlink:href="../../d1/de9/integral__approximation_8cpp.html#adf3f76dd4de4df20ef53c611b924026e" target="_top" xlink:title="Wrapper to evaluate if the approximated value is within .XX% threshold of the exact value.">
 <polygon fill="white" stroke="black" points="82.5,-338.5 82.5,-357.5 138.5,-357.5 138.5,-338.5 82.5,-338.5"/>
 <text text-anchor="middle" x="110.5" y="-345.5" font-family="Helvetica,sans-Serif" font-size="10.00">test_eval</text>
 </a>

@@ -52,7 +52,7 @@ var searchData=
   ['int_5fleast64_5ft_905',['int_least64_t',['http://en.cppreference.com/w/cpp/types/integer.html',0,'std']]],
   ['int_5fleast8_5ft_906',['int_least8_t',['http://en.cppreference.com/w/cpp/types/integer.html',0,'std']]],
   ['integer_5fsequence_907',['integer_sequence',['http://en.cppreference.com/w/cpp/utility/integer_sequence.html',0,'std']]],
-  ['integral_5fapprox_908',['integral_approx',['../dd/d47/namespacemath.html#aec65db4e5c7317323227f026fe50ef11',1,'math']]],
+  ['integral_5fapprox_908',['integral_approx',['../d1/de9/integral__approximation_8cpp.html#a7f4fb1b8f896a4d6c17877fbed0d8702',1,'integral_approximation.cpp']]],
   ['integral_5fapproximation_2ecpp_909',['integral_approximation.cpp',['../d1/de9/integral__approximation_8cpp.html',1,'']]],
   ['integral_5fconstant_910',['integral_constant',['http://en.cppreference.com/w/cpp/types/integral_constant.html',0,'std']]],
   ['intern_5ftype_911',['intern_type',['http://en.cppreference.com/w/cpp/locale/codecvt.html',0,'std::codecvt::intern_type'],['http://en.cppreference.com/w/cpp/locale/codecvt.html',0,'std::codecvt_byname::intern_type'],['http://en.cppreference.com/w/cpp/locale/codecvt.html',0,'std::codecvt_utf16::intern_type'],['http://en.cppreference.com/w/cpp/locale/codecvt.html',0,'std::codecvt_utf8::intern_type'],['http://en.cppreference.com/w/cpp/locale/codecvt.html',0,'std::codecvt_utf8_utf16::intern_type']]],
